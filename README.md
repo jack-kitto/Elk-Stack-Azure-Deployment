@@ -1,2 +1,1 @@
-# GitHub-Homework
-GitHub fundamentals Homework
+# GitHub-HomeworkGitHub fundamentals Homework
